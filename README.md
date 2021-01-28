@@ -1,7 +1,5 @@
 # Who it is ? What is it !
 A Powershell utility to quickly find informations about Users and AD groups.
-
-<br>
 # Showcase
 <br>
 
