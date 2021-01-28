@@ -1,4 +1,4 @@
-# Who it is ?
+# Usage
 A Powershell utility to quickly find information about Users and AD groups.
 # Showcase
 <br>
