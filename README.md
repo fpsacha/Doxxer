@@ -1,4 +1,4 @@
-# Who it is ? What is it !
+# Who it is ?
 A Powershell utility to quickly find informations about Users and AD groups.
 # Showcase
 <br>
