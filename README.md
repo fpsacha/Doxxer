@@ -7,6 +7,7 @@ A Powershell utility to quickly find information about Users and AD groups.
 <br>
 
 # Credit
+<br>
 Author : Sacha Marin
 <br>
 Linkedin : https://www.linkedin.com/in/sachamarin/
@@ -24,6 +25,7 @@ Credit & Thank you
 - u/Camachogrande for the name.
 <br>
 <br>
-#SHA256
+
+# SHA256
 <br>
 e4f6ca6cbd7f6d839b5e733966884ac0df8f47eb1b3a35dfe43ac2e92bf55ae8
