@@ -4,8 +4,10 @@ A Powershell utility to quickly find informations about Users and AD groups.
 <br>
 # Showcase
 <br>
-![Main](https://github.com/fpsacha/who_it_is/blob/main/WhoItis.png)
+
 <br>
+
+![Image of Yaktocat](https://github.com/fpsacha/who_it_is/blob/main/WhoItis.png)
 
 # Credit
 Author : Sacha Marin
