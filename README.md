@@ -3,7 +3,8 @@ A Powershell utility to quickly find informations about Users and AD groups.
 
 <br>
 # Showcase
-![Alt Text](./WhoItis.png)
+![Alt Text](https://github.com/fpsacha/who_it_is/blob/main/WhoItis.png)
+
 <br>
 # Credit
 Author : Sacha Marin
