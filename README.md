@@ -3,7 +3,7 @@ A Powershell utility to quickly find information about Users and AD groups.
 # Showcase
 <br>
 
-![Main](https://github.com/fpsacha/doxxer/blob/main/doxxer.png)
+![Main](https://github.com/fpsacha/Doxxer/blob/main/Doxxer.png)
 <br>
 
 # Credit
