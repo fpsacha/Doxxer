@@ -22,9 +22,7 @@ Credit & Thank you
 <br>
 - https://icons8.com/ for the icons.
 <br>
-- u/Camachogrande for the name.
-<br>
 <br>
 
 # SHA256
-e4f6ca6cbd7f6d839b5e733966884ac0df8f47eb1b3a35dfe43ac2e92bf55ae8
+
